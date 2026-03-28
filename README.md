@@ -1,4 +1,4 @@
 Diagrama de classes:
 
-<img width="1008" height="549" alt="image" src="https://github.com/user-attachments/assets/dfd95bb8-77c1-49a2-97d4-d4587e999c0d" />
+<img width="1218" height="660" alt="image" src="https://github.com/user-attachments/assets/095ac57c-96c2-41fd-800e-f5a2d576e846" />
 
